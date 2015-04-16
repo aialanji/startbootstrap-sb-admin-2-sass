@@ -1,11 +1,12 @@
 {
-  "name": "startbootstrap-sb-admin-2",
+  "name": "startbootstrap-sb-admin-2-sass",
   "version": "1.0.4",
   "homepage": "http://startbootstrap.com/template-overviews/sb-admin-2/",
   "authors": [
-    "David Miller"
+    "David Miller",
+    "Vincent Ogloblinsky"
   ],
-  "description": "A free, open source, Bootstrap admin theme created by Start Bootstrap",
+  "description": "A free, open source, Bootstrap admin theme created by Start Bootstrap, sass version",
   "keywords": [
     "bootstrap",
     "theme"
