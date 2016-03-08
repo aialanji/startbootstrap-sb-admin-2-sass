@@ -9,7 +9,7 @@ This is a Sass port of the original less version.
 To use this template, choose one of the following options to get started:
 * Download the latest release on Start Bootstrap
 * Fork this repository on GitHub
-* Install via bower using `bower install startbootstrap-sb-admin-2`
+* Install via bower using `bower install startbootstrap-sb-admin-2-sass`
 
 ## Bugs and Issues
 
